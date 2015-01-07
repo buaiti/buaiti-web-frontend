@@ -2,7 +2,7 @@
 
 ##目录结构
 > * public/ 
->		js/
->		images/
->		css/
->	* views/
+		js/
+		images/
+		css/
+	* views/
